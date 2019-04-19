@@ -1,0 +1,19 @@
+{
+    "name": "sunxyw/prog_search",
+    "type": "project",
+    "require": {
+        "jaeger/querylist": "^4.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sunxyw",
+            "email": "xy2496419818@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}
